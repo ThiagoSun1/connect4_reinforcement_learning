@@ -1,5 +1,6 @@
 # Connect 4 Reinforcement learning
 
+---
 A Jetson Orin Nano-based you vs. a AI at connect 4 **uses reinforcement learning to train an AI to play against you in the game of connect 4** and visualizes it using Pygame.
 ---
 
