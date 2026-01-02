@@ -45,7 +45,7 @@ source ~/rl_venv/bin/activate
 
 ```
 
-- Python 3.10 (pre-installed on Jetson Orin Nano in rl_venv)
+- Python 3.10 (pre-installed on Jetson Orin Nano in virtual envirments)
 - The following Python libraries:
 
 ```bash
